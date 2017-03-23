@@ -3,6 +3,7 @@
   "version": "1.4.0",
   "description": "A monad for disjunctions. (e.g.: computations that may fail)",
   "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
   "scripts": {
     "test": "make test",
     "prepublish": "make compile"
